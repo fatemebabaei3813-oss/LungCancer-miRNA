@@ -59,23 +59,6 @@ Top selected biomarkers include:
 - hsa-miR-451b
 - hsa-miR-135b
 
----
-
-## Project Structure
-
-
-LungCancer-miRNA-Benchmark/
-│
-├── src/
-├── dataset/
-├── results/
-├── pseudocode/
-├── requirements.txt
-├── README.md
-└── paper.pdf
-
-
----
 
 ## Installation
 
