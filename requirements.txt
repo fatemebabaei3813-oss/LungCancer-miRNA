@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+openpyxl
+scipy
+xgboost
+imbalanced-learn
+tensorflow
